@@ -10,7 +10,7 @@ export async function POST(req: Request) {
   const { messages } = await req.json();
 
   const response = Hf.textGenerationStream({
-	// this model halluciates alot during response you might need to ask again and again.
+	// This model hallucinates a lot during responses, so you might need to cross-check the outputs with multiple attempts
 	model: 'prsdm/phi-2-medquad',
 	// // If you want to try another model this is really good model to start with
     // model: 'OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5',
