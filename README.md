@@ -1,4 +1,4 @@
-# Large Language Model Application 🗣️
+# MedicalGPT 🗣️
 
 This project is built using Next.js and integrates a Medquad Large Language Model from Hugging Face🤗. This is the sample project on how to deploy LLM models in production, based on this [documentation](https://sdk.vercel.ai/providers/legacy-providers/hugging-face). 
 
