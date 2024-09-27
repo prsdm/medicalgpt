@@ -12,21 +12,21 @@ Check the Model training part and article here:
 
 ## Getting Started
 
-##### Clone the repository:
+#### Clone the repository:
 ```bash
 git clone https://github.com/prsdm/llm-app.git
 ```
 ```bash
 cd llm-app
 ```
-##### Install dependencies:
+#### Install dependencies:
 Make sure you have Node.js installed.
 ```bash
 npm install
 # or
 yarn install
 ```
-##### Then run the development server:
+#### Then run the development server:
 
 ```bash
 npm run dev
