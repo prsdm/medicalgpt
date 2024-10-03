@@ -1,6 +1,8 @@
 # MedicalGPT 🗣️
 
-This project is built using Next.js and integrates a Medquad Large Language Model from Hugging Face🤗. This is the sample project on how to deploy LLM models in production, based on this [documentation](https://sdk.vercel.ai/providers/legacy-providers/hugging-face). 
+This project is built using Next.js and integrates a Medquad (fine-tuned) Large Language Model from Hugging Face🤗. 
+> [!NOTE]  
+> This is the sample project on how to deploy LLM models in production, based on this [documentation](https://sdk.vercel.ai/providers/legacy-providers/hugging-face). 
 
 The model is trained on a labeled dataset using the Supervised fine tuning (SFT) method. The labeled dataset typically contains examples of instruction (input) and response (output) pairs relevant to the task. In this process, the model learns how to respond to specific instructions.
 
