@@ -17,10 +17,10 @@ Check out the Model training part and article here:
 
 #### Clone the repository:
 ```bash
-git clone https://github.com/prsdm/llm-app.git
+git clone https://github.com/prsdm/medicalgpt.git
 ```
 ```bash
-cd llm-app
+cd medicalgpt
 ```
 #### Install dependencies:
 Make sure you have Node.js installed.
