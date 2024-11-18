@@ -40,3 +40,8 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
+## License
+
+Copyright © 2024, [Prasad Mahamulkar](https://github.com/prsdm).
+
+Released under the [MIT License](LICENSE).
